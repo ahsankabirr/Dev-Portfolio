@@ -38,6 +38,10 @@
     font-size: 18px;
     color: #757575;
 }
+
+.text-center{
+    text-align: center;
+}
 /* header */
 .header{
     background-image: url("../images/developer.png"), url("../images/header_bg.png");
@@ -118,6 +122,9 @@ main{
     margin-bottom: 130px;
 }
 
+.section-description{
+    max-width: 909px;
+}
 .about-items{
     display: flex;
     justify-content: space-around;
